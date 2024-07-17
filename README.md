@@ -17,12 +17,12 @@
 <a href="https://github.com/lxxmnmn/type-challenges/issues/14" target="_blank"><img src="https://img.shields.io/badge/-3312%E3%83%BBParameters-7aad0c" alt="3312・Parameters"/></a>
 <a href="https://github.com/lxxmnmn/type-challenges/issues/15" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
 <a href="https://github.com/lxxmnmn/type-challenges/issues/16" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
+<a href="https://github.com/lxxmnmn/type-challenges/issues/17" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
+<a href="https://github.com/lxxmnmn/type-challenges/issues/18" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
+<a href="https://github.com/lxxmnmn/type-challenges/issues/19" target="_blank"><img src="https://img.shields.io/badge/-10%E3%83%BBTuple%20to%20Union-d9901a" alt="10・Tuple to Union"/></a>
 
 ## 🔒 Yet
 <img src="https://img.shields.io/badge/medium-97-d9901a" alt="97"/>
-<a href="./questions/00008-medium-readonly-2/README.md" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
-<a href="./questions/00009-medium-deep-readonly/README.md" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
-<a href="./questions/00010-medium-tuple-to-union/README.md" target="_blank"><img src="https://img.shields.io/badge/-10%E3%83%BBTuple%20to%20Union-d9901a" alt="10・Tuple to Union"/></a>
 <a href="./questions/00012-medium-chainable-options/README.md" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
 <a href="./questions/00015-medium-last/README.md" target="_blank"><img src="https://img.shields.io/badge/-15%E3%83%BBLast%20of%20Array-d9901a" alt="15・Last of Array"/></a>
 <a href="./questions/00016-medium-pop/README.md" target="_blank"><img src="https://img.shields.io/badge/-16%E3%83%BBPop-d9901a" alt="16・Pop"/></a>
